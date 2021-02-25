@@ -1,3 +1,4 @@
+from math import *
 a = 10
 b = 5
 c = 2
@@ -15,4 +16,5 @@ print(dzielenie_calkowite)
 print(potęga)
 print(pow(8, 2))
 a += c
-print(a)
+
+print(sqrt(9))
